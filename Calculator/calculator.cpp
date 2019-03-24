@@ -116,13 +116,4 @@ void Calculator::ChangeNumberSign()
         double dblDisplayValSign = -1*dblDisplayVal;
         ui->Display->setText(QString::number(dblDisplayValSign));
     }
-
 }
-
-
-
-
-
-
-
-
