@@ -26,4 +26,3 @@ private slots:
 };
 
 #endif // CALCULATOR_H
-
