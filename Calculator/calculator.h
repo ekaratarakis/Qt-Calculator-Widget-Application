@@ -25,6 +25,4 @@ private slots:
     void ChangeNumberSign();
 };
 
-
-
 #endif // CALCULATOR_H
